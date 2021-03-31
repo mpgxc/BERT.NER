@@ -21,7 +21,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## Licença
 
-A definir!
+Esse projeto está sob a licença Apache 2.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
