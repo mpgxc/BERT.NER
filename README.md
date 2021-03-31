@@ -6,6 +6,10 @@ Feeding BILSTM with BERT Embeddings to finetuning model for NER Task.
 
 ![image](./.github/ber_bilstm_arch.png)
 
+---
+## Keras Model
+![image](./.github/model.png)
+
 ## Como contribuir
 
 * Faça um fork desse repositório;
