@@ -30,6 +30,8 @@ A definir!
 * [Annotated Corpus for Named Entity Recognition](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus)
 * [Huggingface - Transformers](https://github.com/huggingface/transformers)
 * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
+* [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360)
+
 ---
 
 Feito com 💜 by **mpgxc**
